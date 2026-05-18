@@ -1,3 +1,7 @@
+## Status
+
+🚧 **In Development** — This workflow is functional but still being refined. The ChatGPT extraction logic is being optimized for better accuracy. Feel free to submit issues or suggestions!
+
 # Gmail Job Application Tracker
 
 An AI-powered Make.com automation that extracts job application data from your Gmail and organizes it into a Google Sheet.
